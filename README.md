@@ -5,7 +5,7 @@ Repositório de projetos, desafios, Estudos de Casos, Exemplos e Exercícios par
 
 # Projetos:
 
-<a href="https://github.com/users/Rildosan/projects/2" ><H3><B>User Special (US)</B></H3></a>
+<a href="https://github.com/Rildosan/User-Special" ><H3><B>User Special (US)</B></H3></a>
 
 <a href="https://github.com/Rildosan/iHealthFood" ><H3><B>iHealth Food (iHF)<B></H3></a>
 
