@@ -1,5 +1,7 @@
 # Analista-de-Requisito-de-Software
-Repositório de projetos, testes e desafios do Analista de Requisitos de Software
+Jornada de Aprendizagem Coontínua de Análise de Negócio
+
+Repositório de projetos, desafios, Estudos de Casos, Exemplos e Exercícios para o Analista de Requisitos de Software
 
 # Projetos
 ### **Projeto User Special (US)** ###
@@ -16,7 +18,10 @@ https://github.com/users/Rildosan/projects/2
 
 ### **D3 - Cenários** ###
 
-# Exercícios
-# Estudo de Caso
+# Estudos de Caso
+
 # Exemplos
+
+# Exercícios
+
 # Referências
