@@ -1,4 +1,4 @@
-# Analista de Requisito de Software
+# Analista de Requisitos de Software
 Jornada de Aprendizagem Coontínua de Análise de Negócio
 
 Repositório de projetos, desafios, Estudos de Casos, Exemplos e Exercícios para o Analista de Requisitos de Software
