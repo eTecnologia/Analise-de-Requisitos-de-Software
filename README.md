@@ -7,15 +7,15 @@ Aqui é nossa base de conhecimento Projetos, Desafios, Estudos de Casos, Exemplo
 
 ![](http://www.etecnologia.com.br/treinamentos/fars/Infografico-fars-abr2020-v3.PNG)
 
-<H4><B>Projetos:</B></H4>
+<H3><B>Projetos:</B></H3>
 
 <a href="https://github.com/Rildosan/User-Special" ><H4><B>User Special (US)</B></H4></a>
 
 <a href="https://github.com/Rildosan/iHealthFood" ><H4><B>iHealth Food (iHF)<B></H4></a>
 
-<H4><B>Projeto Pontos de Coleta Seletiva<B> (em breve)</H4>
+<H4>Projeto Pontos de Coleta Seletiva<B> (em breve)</H4>
 
-<H4><B>Estudos de Caso
+<H3><B>Estudos de Caso
 <BR>
 <BR>
 Exemplos
@@ -24,4 +24,4 @@ Exemplos
 Exercícios
 <BR>
 <BR>
-Referências</B></H4>
+Referências</B></H3>
