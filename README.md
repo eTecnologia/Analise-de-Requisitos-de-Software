@@ -3,7 +3,7 @@ A Jornada de Aprendizagem Contínua mostra caminhos para se tornar uma pessoa e 
 Objetivo da jornada é ir além de treinamentos, é ofertar outras oportunidades de aprendizado e experimentação, como desenvolvimento de projetos, vivencia de desafios, apresentação de estudos de casos e exemplos e realização de exercícios.
 Ainda haverá a possibilidade de fazer debates de ideias, trocar experiências e compartilhamento de conhecimento prático.
 
-Aqui é nossa base de conhecimento Projetos, Desafios, Estudos de Casos, Exemplos e Exercícios para o Analista de Requisitos de Software
+Aqui é nossa Base de Conhecimento de Projetos, Desafios, Estudos de Casos, Exemplos e Exercícios para o Analista de Requisitos de Software
 
 ![](http://www.etecnologia.com.br/treinamentos/fars/Infografico-fars-abr2020-v3.PNG)
 
