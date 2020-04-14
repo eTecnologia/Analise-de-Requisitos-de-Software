@@ -13,13 +13,6 @@ Repositório de projetos, desafios, Estudos de Casos, Exemplos e Exercícios par
 
 <H3><B>Projeto Pontos de Coleta Seletiva<B></H3>
 
-# Desafios
-### **D1 - Requisitos Funcionais** ###
-
-### **D2 - Requisitos Não Funcionais** ###
-
-### **D3 - Cenários** ###
-
 # Estudos de Caso
 
 # Exemplos
