@@ -17,8 +17,11 @@ Aqui é nossa base de conhecimento Projetos, Desafios, Estudos de Casos, Exemplo
 
 <H4><B>Estudos de Caso
 <BR>
+<BR>
 Exemplos
-
+<BR>
+<BR>
 Exercícios
-
+<BR>
+<BR>
 Referências</B></H4>
