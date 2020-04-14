@@ -3,11 +3,12 @@ A Jornada de Aprendizagem Contínua mostra caminhos para se tornar uma pessoa e 
 Objetivo da jornada é ir além de treinamentos, é ofertar outras oportunidades de aprendizado e experimentação, como desenvolvimento de projetos, vivencia de desafios, apresentação de estudos de casos e exemplos e realização de exercícios.
 Ainda haverá a possibilidade de fazer debates de ideias, trocar experiências e compartilhamento de conhecimento prático.
 
-Aqui é nossa Base de Conhecimento de Projetos, Desafios, Estudos de Casos, Exemplos e Exercícios para o Analista de Requisitos de Software
+Aqui é a nossa Base de Conhecimento de Projetos, Desafios, Estudos de Casos, Exemplos e Exercícios para o Analista de Requisitos de Software
 
 ![](http://www.etecnologia.com.br/treinamentos/fars/Infografico-fars-abr2020-v3.PNG)
 
 <H3><B>Projetos:</B></H3>
+
 <a href="https://github.com/Rildosan/iHealthFood" ><H4><B>iHealth Food (iHF)</B></H4></a>
 
 <H4><i>User Special (US)</B> (em breve)</i></H4>
