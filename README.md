@@ -1,10 +1,10 @@
 ![](http://www.etecnologia.com.br/treinamentos/fars/Infografico-fars-abr2020-v3.PNG)
 
 A Jornada de Aprendizagem Contínua em Análise de Requisitos de Software (ARS) mostra caminhos para se tornar um profissional melhor. Ela serve para pessoas que estão no começo da jornada, profissionais que estão em transição de carreira e para experientes que buscam por atualização e aperfeiçoamento profissional (Upskilling).
-Objetivo da jornada é ir além de treinamentos, é ofertar outras oportunidades de aprendizado e experimentação, como desenvolvimento de projetos, vivencia de desafios, apresentação de estudos de casos e exemplos e realização de exercícios.
+Objetivo da jornada é ir além de treinamentos, é ofertar outras oportunidades de aprendizado e experimentação, como desenvolvimento de projetos, vivência de desafios, apresentação de estudos de casos e exemplos e realização de exercícios.
 Ainda haverá a possibilidade de fazer debates de ideias, trocar experiências e compartilhamento de conhecimento prático.
 
-Aqui é a nossa Base de Conhecimento de Projetos, Desafios, Estudos de Casos, Exemplos e Exercícios para o Analista de Requisitos de Software
+Aqui é a nossa Base de Conhecimento, Portfólio de Projetos, Desafios, Estudos de Casos, Exemplos e Exercícios para o Analista de Requisitos de Software
 
 <H3><B>Base de Conhecimento</B></H3>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/BDD-(Desenvolvimento-Orientado-a-Comportamento)">BDD - Desenvolvimento Orientado a Comportamento</a>  
