@@ -1,5 +1,3 @@
-# ANÁLISE DE REQUISITOS DE SOFTWARE
-
 ![](http://www.etecnologia.com.br/treinamentos/fars/Infografico-fars-abr2020-v3.PNG)
 
 A Jornada de Aprendizagem Contínua mostra caminhos para se tornar uma pessoa e um profissional melhor. Ela serve para pessoas que estão no começo da jornada (profissionais com pouca ou nenhuma experiência, ou em transição de carreira e que necessitam se requalificar - reskilling) e para pessoas que já estão percorrendo a jornada (profissionais com alguma experiência ou experientes) que buscam por atualização e aperfeiçoamento profissional (Upskilling).
