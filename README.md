@@ -11,7 +11,14 @@ Aqui é a nossa Base de Conhecimento, Portfólio de Projetos, Desafios, Estudos 
 <BR>  
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/Especifica%C3%A7%C3%A3o-por-exemplo-(SBE)">SBE (Specification by Example) Especififação por Exemplo</a> 
 <BR>
+Casos de Uso
 <BR>
+<BR>
+ISO 25  - Qualidade de Software - Requisitos não Funcionais
+<BR>
+
+
+
 <H3><B>Projetos:</B></H3>
 
 <a href="https://github.com/Rildosan/iHealthFood" ><H4><B>iHealth Food (iHF)</B></H4></a>
