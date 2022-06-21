@@ -1,10 +1,17 @@
 ![](http://www.etecnologia.com.br/treinamentos/fars/Infografico-fars-abr2020-v3.PNG)
 
-A Jornada de Aprendizagem Contínua em Análise de Requisitos de Software (ARS) mostra caminhos para se tornar um profissional melhor. Ela serve para pessoas que estão no começo da jornada, profissionais que estão em transição de carreira e para experientes que buscam por atualização e aperfeiçoamento profissional (Upskilling).
-Objetivo da jornada é ir além de treinamentos, é ofertar outras oportunidades de aprendizado e experimentação, como desenvolvimento de projetos, vivência de desafios, apresentação de estudos de casos e exemplos e realização de exercícios.
-Ainda haverá a possibilidade de fazer debates de ideias, trocar experiências e compartilhamento de conhecimento prático.
+Engenharia de Requisitos de Software é um processo de descoberta, análise, especificação, validação e gerenciamento.
 
-Aqui é a nossa Base de Conhecimento, Portfólio de Projetos, Desafios, Estudos de Casos, Exemplos e Exercícios para o Analista de Requisitos de Software
+Segundo F. Brooks  “A parte mais árdua na construção de um software consiste exatamente em identificar o que construir. Nenhuma outra parte do trabalho compromete tanto o resultado do trabalho se elaborado de forma incorreta. Nenhuma outra parte oferece tanta dificuldade para efetuar correções posteriores. " Um entendimento dos requisitos de software é essencial para o sucesso do desenvolvimento do software. Não importa quão bem projetado ou quão bem codificado seja, um software mal analisado e especificado frustrará o usuário.
+
+O usuário tenta reformular um conceito de função e desempenho de software, às vezes nebuloso, sem detalhes concretos. Desenvolvedor age como indagador, consultor e solucionador de problemas.
+Entretanto, apesar da gestão de requisitos pode parecer uma atividade relativamente simples, mas as aparências enganam. O grau de comunicação é elevado. Daí, é que surgem as oportunidades de interpretações errôneas e informações falsas. Segundo Roger Pressman (1995), na analise e especificação de requisitos, a ambiguidade não só é possível mas é provável.
+
+Segundo Barry Boehm, quando mais tarde são detectados os requisitos ou identificados erros na análise de requisitos, a correção ficará mais cara. Por exemplo, em software que foi desenvolvido o valor da correção pode chegar a ser 20 vezes mais cara.
+
+A Jornada da Engenharia de Requisitos de Software é um caminho de possibilidades para descobrir aquilo que deve ser feito para entregar valor para os clientes.
+
+Aqui é a nossa Base de Conhecimento, Portfólio de Projetos, Desafios, Estudos de Casos, Exemplos e Exercícios para o Análise de Requisitos de Software:
 
 <H3><B>Base de Conhecimento</B></H3>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/BDD-(Desenvolvimento-Orientado-a-Comportamento)">BDD - Desenvolvimento Orientado a Comportamento</a>  
