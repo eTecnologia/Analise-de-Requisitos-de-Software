@@ -24,6 +24,9 @@ Aqui é a nossa Base de Conhecimento, Portfólio de Projetos, Desafios, Estudos 
 ISO 25010:2011 - Qualidade de Produto de Software (Requisitos não Funcionais)</a>
 <BR>
 <BR>
+  <strong>Download</strong> <i>(em breve)</i>
+<BR>
+<BR>
 <H3><B>Projetos:</B></H3>
 
 <a href="https://github.com/Rildosan/iHealthFood" ><H4><B>iHealth Food (iHF)</B></H4></a>
