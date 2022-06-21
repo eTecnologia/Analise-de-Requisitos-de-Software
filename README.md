@@ -2,7 +2,7 @@
 
 Engenharia de Requisitos de Software é um processo de descoberta, análise, especificação, validação e gerenciamento.
 
-Segundo F. Brooks  “A parte mais árdua na construção de um software consiste exatamente em identificar o que construir. Nenhuma outra parte do trabalho compromete tanto o resultado do trabalho se elaborado de forma incorreta. Nenhuma outra parte oferece tanta dificuldade para efetuar correções posteriores. " Um entendimento dos requisitos de software é essencial para o sucesso do desenvolvimento do software. Não importa quão bem projetado ou quão bem codificado seja, um software mal analisado e especificado frustrará o usuário.
+Segundo F. Brooks  “A parte mais árdua na construção de um software consiste exatamente em identificar o que construir. Nenhuma outra parte do trabalho compromete tanto o resultado do trabalho se elaborado de forma incorreta. Nenhuma outra parte oferece tanta dificuldade para efetuar correções posteriores. "Um entendimento dos requisitos de software é essencial para o sucesso do desenvolvimento do software. Não importa quão bem projetado ou quão bem codificado seja, um software mal analisado e especificado frustrará o usuário.
 
 O usuário tenta reformular um conceito de função e desempenho de software, às vezes nebuloso, sem detalhes concretos. Desenvolvedor age como indagador, consultor e solucionador de problemas.
 Entretanto, apesar da gestão de requisitos pode parecer uma atividade relativamente simples, mas as aparências enganam. O grau de comunicação é elevado. Daí, é que surgem as oportunidades de interpretações errôneas e informações falsas. Segundo Roger Pressman (1995), na analise e especificação de requisitos, a ambiguidade não só é possível mas é provável.
