@@ -11,13 +11,10 @@ Aqui é a nossa Base de Conhecimento, Portfólio de Projetos, Desafios, Estudos 
 <BR>  
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/Especifica%C3%A7%C3%A3o-por-exemplo-(SBE)">SBE (Specification by Example) Especififação por Exemplo</a> 
 <BR>
-Casos de Uso
-<BR>
+Casos de Uso 2.0
 <BR>
 ISO 25  - Qualidade de Software - Requisitos não Funcionais
 <BR>
-
-
 
 <H3><B>Projetos:</B></H3>
 
