@@ -20,7 +20,7 @@ Aqui é a nossa Base de Conhecimento, Portfólio de Projetos, Desafios, Estudos 
 <BR>
 <a href = "https://github.com/eTecnologia/projeto-genesis/wiki/Caso-de-Uso-2.0">Casos de Uso 2.0</a>
 <BR>
-<a href = "https://github.com/eTecnologia/Analise-de-Requisitos-de-Software/wiki/ISO-25010:2011">
+<a href = "https://github.com/eTecnologia/Analise-de-Requisitos-de-Software/wiki/ISO-25010">
 ISO 25010:2011 - Qualidade de Produto de Software (Requisitos não Funcionais)</a>
 <BR>
 <BR>
