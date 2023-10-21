@@ -1,4 +1,4 @@
-![](http://www.etecnologia.com.br/treinamentos/fars/Infografico-grs-set2020-v3.png)
+![](http://www.etecnologia.com.br/treinamentos/fars/Infografico-grs-out23-v4.png)
 
 Engenharia de Requisitos de Software é um processo de descoberta, análise, especificação, validação e gerenciamento.
 
